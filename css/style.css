@@ -88,7 +88,7 @@ ul {
   padding: 0px; }
 
 ul background{
-    opacity: .2;
+    opacity: 0.02;
     
     
 }
@@ -154,6 +154,7 @@ ul {
   padding: 3em;
      background-repeat:no-repeat;
     background-size:cover;
+    background-image:url(../img/miami.jpg);
 }
 
 

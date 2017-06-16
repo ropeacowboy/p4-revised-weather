@@ -1,0 +1,147 @@
+
+    {
+    font-family:fantasy;
+}
+body {
+  background: #3494E6;
+  background: -webkit-linear-gradient(to bottom, #EC6EAD, #3494E6);
+  background: linear-gradient(to bottom, #EC6EAD, #3494E6);
+    color:white;
+}
+
+
+.weather {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; }
+
+
+ul {
+ 
+  padding: 3em; }
+
+
+
+li{
+    display: inline;
+    padding: 2em;
+    font-family:cursive;
+}
+
+/* line 30, C:/Users/hatch/Desktop/p4-weather-app/css/style.scss */
+.image img {
+  display: inline; }
+
+/* line 37, C:/Users/hatch/Desktop/p4-weather-app/css/style.scss */
+section ul {
+  list-style-type: none;
+  text-decoration: none; }
+
+
+ul {
+  border: 2px solid #c0ffee;
+  padding: 3em; }
+
+
+
+
+
+section ul, li {
+  list-style-type: none;
+  text-decoration: none;
+  display: inline; }
+
+
+
+
+
+li{
+    display: inline;
+}
+
+.image img{
+ // border: 3px solid red;
+  display: inline;
+}
+
+
+
+section ul{
+    list-style-type:none;
+    text-decoration:none;
+}
+
+
+ul {
+  border: 2px solid #c0ffee;
+  padding: 0px; }
+
+
+.image img {
+  display: inline; }
+
+
+
+
+
+section ul, li {
+  list-style-type: none;
+  text-decoration: none;
+    display: inline;
+
+}
+
+
+/*# sourceMappingURL=style.css.map */
+.city {
+    font-size: 30px;
+}
+
+.region{
+    font-size:30px;
+}
+
+
+
+ul{
+
+  padding: 3em;
+}
+
+li{
+    display: inline;
+    padding: .5em;
+    font-family:cursive;
+}
+
+
+
+
+
+section ul{
+    list-style-type:none;
+    text-decoration:none;
+}
+
+
+.area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; }
+
+
+ul {
+  border: 2px solid #c0ffee;
+  padding: 3em; }
+
+
+
+
+
+section ul, li {
+  list-style-type: none;
+  text-decoration: none;
+    display: inline;
+
+}
+

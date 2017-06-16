@@ -154,7 +154,7 @@ ul {
   padding: 3em;
      background-repeat:no-repeat;
     background-size:cover;
-    background-image:url(/img/miami.jpg)
+    background-image:url("/img/miami.jpg");
 }
 
 

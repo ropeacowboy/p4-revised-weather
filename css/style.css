@@ -87,6 +87,12 @@ ul {
   border: 2px solid #c0ffee;
   padding: 0px; }
 
+ul background{
+    opacity: .2;
+    
+    
+}
+
 
 .image img {
   display: inline; }
